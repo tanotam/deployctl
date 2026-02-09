@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ## Uility usage
 ### deploy stack, apply migration.sql
 ```bash
-deploy stack, apply migration.sql
+python deployctl.py up
 ```
 ### to specify version
 ```bash
