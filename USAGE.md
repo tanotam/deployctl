@@ -7,6 +7,11 @@ This utility manages deployment of a stack consisting of:
 
 ---
 
+## Prerequisites
+- Ensure docker and docker-compose are installed on you local machine, and works via non-root user
+- Python installed also
+- Ports 5432 and 8000 are free to use
+
 ## Setup
 
 ```bash
