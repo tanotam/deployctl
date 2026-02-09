@@ -1,4 +1,5 @@
-flask
+fastapi
 psycopg2-binary
 requests
-gunicorn
+uvicorn
+sqlalchemy
